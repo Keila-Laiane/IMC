@@ -1,0 +1,7 @@
+C:\Users\Lirian\source\repos\Keila\bin\Debug\Keila.exe.config
+C:\Users\Lirian\source\repos\Keila\bin\Debug\Keila.exe
+C:\Users\Lirian\source\repos\Keila\bin\Debug\Keila.pdb
+C:\Users\Lirian\source\repos\Keila\obj\Debug\Keila.csprojAssemblyReference.cache
+C:\Users\Lirian\source\repos\Keila\obj\Debug\Keila.csproj.CoreCompileInputs.cache
+C:\Users\Lirian\source\repos\Keila\obj\Debug\Keila.exe
+C:\Users\Lirian\source\repos\Keila\obj\Debug\Keila.pdb
